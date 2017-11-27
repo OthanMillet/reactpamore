@@ -1,1 +1,1 @@
-# reactpamore
+# reactMinimal
